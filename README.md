@@ -1,4 +1,4 @@
-# 42Cursus-libft
+# Libft
 
 Description:
 
